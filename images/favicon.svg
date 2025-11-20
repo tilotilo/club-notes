@@ -6,6 +6,7 @@
         fill: none;
         stroke: #fff;
         stroke-miterlimit: 10;
+        stroke-width: 3px;
       }
 
       .cls-2 {
@@ -22,10 +23,10 @@
     </style>
   </defs>
   <g>
-    <rect class="cls-2" x=".5" y=".5" width="127" height="127"/>
-    <path class="cls-3" d="M127,1v126H1V1h126M128,0H0v128h128V0h0Z"/>
+    <rect class="cls-2" x="2" y="2" width="124" height="124"/>
+    <path class="cls-3" d="M124.5,3.5v121H3.5V3.5h121M127.5.5H.5v127h127V.5h0Z"/>
   </g>
-  <polygon class="cls-1" points="96 .5 85 .5 85 73.1 96 73.1 96 127.6 96 127.6 96 73.1 106 73.1 106 .5 98 .5 96 .5"/>
-  <polygon class="cls-1" points="64 .5 53 .5 53 73.1 64 73.1 64 127.6 64 127.6 64 73.1 74 73.1 74 .5 66 .5 64 .5"/>
-  <polygon class="cls-1" points="32 .5 21 .5 21 73.1 32 73.1 32 127.6 32 127.6 32 73.1 42 73.1 42 .5 34 .5 32 .5"/>
+  <polygon class="cls-1" points="96 1.5 85 1.5 85 73.1 96 73.1 96 127.6 96 127.6 96 73.1 106 73.1 106 1.5 98 1.5 96 1.5"/>
+  <polygon class="cls-1" points="64 1.5 53 1.5 53 73.1 64 73.1 64 127.6 64 127.6 64 73.1 74 73.1 74 1.5 66 1.5 64 1.5"/>
+  <polygon class="cls-1" points="32 1.5 21 1.5 21 73.1 32 73.1 32 127.6 32 127.6 32 73.1 42 73.1 42 1.5 34 1.5 32 1.5"/>
 </svg>
